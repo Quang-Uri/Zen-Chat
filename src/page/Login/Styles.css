@@ -1,0 +1,6 @@
+/* Thêm class mới cho hình nền */
+.bgWithImage {
+    background-image: url('/Images/123.jpg');
+    background-size: cover;
+  }
+  
